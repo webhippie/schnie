@@ -36,30 +36,22 @@ workflow / build
 
 vue basics
 
-https://vuejs.org/v2/guide/
-
-register components - global or local:
-https://vuejs.org/v2/guide/components.html#Registration
-
-what we used today, interesting idea of having components even "dynamic":
-https://vuejs.org/v2/guide/components.html#Dynamic-Components
-
-we need to understand how to architect components:
-https://vuejs.org/v2/guide/components.html#Authoring-Reusable-Components
-
-Here the single file component example- how components should look like:
-https://vuejs.org/v2/guide/single-file-components.html
-The vue-loader is helping to easy write .vue files / components:
-http://vue-loader.vuejs.org/en/
-
-Also really important - let us roughly define and write down our requirements and test them 
-BDD: http://nightwatchjs.org/guide#using-nightwatch
-Units: https://vuejs.org/v2/guide/unit-testing.html
-
-Design decision - do we need this? I think this would need deeper integration with symfony, quite some work ...
-https://vuejs.org/v2/guide/ssr.html
-
-
+- https://vuejs.org/v2/guide/
+- register components - global or local:
+  - https://vuejs.org/v2/guide/components.html#Registration
+- what we used today, interesting idea of having components even "dynamic":
+  - https://vuejs.org/v2/guide/components.html#Dynamic-Components
+- we need to understand how to architect components:
+  - https://vuejs.org/v2/guide/components.html#Authoring-Reusable-Components
+- Here the single file component example- how components should look like:
+  - https://vuejs.org/v2/guide/single-file-components.html
+- The vue-loader is helping to easy write .vue files / components:
+  - http://vue-loader.vuejs.org/en/
+- Also really important - let us roughly define and write down our requirements and test them 
+  - BDD: http://nightwatchjs.org/guide#using-nightwatch
+  - Units: https://vuejs.org/v2/guide/unit-testing.html
+- Design decision - do we need this? I think this would need deeper integration with symfony, quite some work ...
+  - https://vuejs.org/v2/guide/ssr.html
 
 vue tools
 
