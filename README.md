@@ -34,6 +34,9 @@ workflow / build
 - https://github.com/vuejs-templates/webpack/blob/master/docs/SUMMARY.md
 - http://vuejs-templates.github.io/webpack/
 
+Test API for json
+- https://github.com/typicode/json-server
+
 vue basics
 
 - https://vuejs.org/v2/guide/
